@@ -1,7 +1,7 @@
 # WeatherApp
 
-Currently learning the basics of Angular to see if I like it more than React or Next.js 
-I am creating a simple weather app using Rapid API to fetch weather data. I am also adding a search componenet.
+### Currently learning the basics of Angular to see if I like it more than React or Next.js 
+### I am creating a simple weather app using Rapid API to fetch weather data. I am also adding a search component that will allow users to search any location.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
