@@ -7,6 +7,9 @@ import { WeatherService } from './services/weather.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
+  title(title: any) {
+    throw new Error('Method not implemented.');
+  }
 
   constructor(private weatherService: WeatherService) {
   }
