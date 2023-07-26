@@ -2,6 +2,7 @@
 
 ### I am currently learning the basics of Angular
 ### I am creating a simple weather app using Rapid API to fetch weather data. I am also adding a search component that will allow users to search any location.
+<img width="1433" alt="Screen Shot 2023-07-25 at 11 01 57 PM" src="https://github.com/MikeSanDev/Angular-Weather-App/assets/96930354/3c790cf5-34c3-4e76-b378-45410346db3e">
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
