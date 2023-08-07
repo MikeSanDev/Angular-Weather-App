@@ -5,6 +5,7 @@
 <img width="1432" alt="Screen Shot 2023-07-25 at 11 05 54 PM" src="https://github.com/MikeSanDev/Angular-Weather-App/assets/96930354/d26a698f-b112-43cd-92da-7e8833b50915">
 
 
+# HOW TO START THIS APP 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
